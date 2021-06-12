@@ -1,7 +1,7 @@
 # Movie-Recommendation-System-1-Demographic-Filtering-2-Content-Based-Filtering-3-Collaborative-Filtering
 Movie Recommendation  System
 
-##I have built 3 different recommendation engines based on different ideas and algorithms. They are as follows:
+## I have built 3 different recommendation engines based on different ideas and algorithms. They are as follows:
 
 * Demographic Filtering: This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. The IMDB Weighted Rating System was used to calculate ratings on which the sorting was finally performed.
 
